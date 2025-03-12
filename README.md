@@ -1,51 +1,27 @@
 <h1>Hi, I'm Micah! </h1>
 <h2><a href="www.linkedin.com/in/micah-kate-saberola-72ba981a3">Cybersecurity Security Analyst</a></h2>
 <h2>🌱<a href= "https://github.com/M0rnIngzTar/micahportfolio">CV</a></h2>
-
+<h2>💬 Who <h2>
 <h2>👨‍💻 Networking Project:</h2>
 - <b>Networking Implementations</b> 
 
 - [Network Infrastrcuture](https://m0rningztar.github.io/micahportfolio/)
-  <h4>Summary</h4>
+<h4>Summary</h4>
 <b>I was tasked with creating a network infrastructure for a multinational organisation with locations in two major cities: London and Paris. The objective was to design a network topology that enables seamless connectivity between these two sites, allowing users in both locations to share resources and collaborate efficiently.</b>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 University Dissertation:</h2>
+<b>Currently Adding it! Please bare with me as it have 90 pages✨</b>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<b>To be expected:</b>
 
-<h2>📺 Popular YouTube Videos</h2>
+<b>My dissertation explores the positive and negative impacts of technology on society, particularly for individuals aged 18-30. Instead of developing a website, I designed a high-fidelity UX/UI prototype using Figma to create an engaging and accessible experience. The prototype visually presents the benefits of technology—such as connectivity, entertainment, and productivity—while also addressing its drawbacks, including addiction, hyperconnectivity, and decreased motivation. The project involved extensive research, ideation, and evaluation to ensure it effectively educates users while remaining user-friendly and enjoyable. Ultimately, this design helps users reflect on whether technology is a savior or a destroyer in their lives.
+</b>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+
 
 <h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+<a href="www.linkedin.com/in/micah-kate-saberola-72ba981a3"> Linkedin</a>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
