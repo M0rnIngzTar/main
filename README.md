@@ -2,7 +2,11 @@
 <h2><a href="www.linkedin.com/in/micah-kate-saberola-72ba981a3">Cybersecurity Security Analyst</a></h2>
 
 <h2>👨‍💻 Networking Project:</h2>
-- <b>Networking Implementations</b> https://m0rningztar.github.io/micahportfolio/
+- <b>Networking Implementations</b> 
+
+- [Network Infrastrcuture](https://m0rningztar.github.io/micahportfolio/)
+  <h4>Summary</h4>
+<b>I was tasked with creating a network infrastructure for a multinational organisation with locations in two major cities: London and Paris. The objective was to design a network topology that enables seamless connectivity between these two sites, allowing users in both locations to share resources and collaborate efficiently.</b>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
