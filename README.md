@@ -2,15 +2,27 @@
 <h2><a href="www.linkedin.com/in/micah-kate-saberola-72ba981a3">Cybersecurity Security Analyst</a></h2>
 <h2>🌱<a href= "https://m0rningztar.github.io/micahportfolio/">CV</a></h2>
 <h2> 🚀 About me  <h2>
-- 🎯 Passionate about [your areas of expertise/interests].
-- 💻 Working on [current projects or learning goals].
-- 📚 Learning [technologies or skills you’re focusing on].
-- 📫 Reach me at [your email or social links].
+  
+🔹 I enjoy learning how security vulnerabilities work and how to mitigate them.
+  
+🔹 I’m passionate about cloud security and securing systems in modern IT environments.
+
+🔹 I aim to grow my expertise in security operations, threat detection, and incident response.
+
+Cybersecurity is a field where learning never stops, and that’s what keeps me excited every day!.
+
+<h2>📚 Learning Journey</h2>
+
+🔹Gaining experience in cybersecurity operations & security analysis
+
+🔹Experimenting with penetration testing & threat detection
+
+🔹 Learning Azure & cloud security fundamentals
+
+🔹 Studying for industry certifications to strengthen my expertise
   
 <h2>👨‍💻 Networking Project:</h2>
-- <b>Networking Implementations</b> 
-
-- [Network Infrastrcuture](https://github.com/M0rnIngzTar/Project1)
+<h3>🔭<a href= "https://github.com/M0rnIngzTar/Project1">Network Infrastructure</a></h3>
 <h4>Summary</h4>
 <b>I was tasked with creating a network infrastructure for a multinational organisation with locations in two major cities: London and Paris. The objective was to design a network topology that enables seamless connectivity between these two sites, allowing users in both locations to share resources and collaborate efficiently.</b>
 
