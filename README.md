@@ -1,15 +1,17 @@
+
 <h1>Hi, I'm Micah! </h1>
 <h2><a href="www.linkedin.com/in/micah-kate-saberola-72ba981a3">Cybersecurity Security Analyst</a></h2>
 <h2>🌱<a href= "https://m0rningztar.github.io/micahportfolio/">CV</a></h2>
-<h2>🚀About me<h2>
-  
-🔹 I enjoy learning how security vulnerabilities work and how to mitigate them.
-  
-🔹 I’m passionate about cloud security and securing systems in modern IT environments.
+
+<h2>🚀 About Me</h2>
+
+🔹I enjoy learning how security vulnerabilities work and how to mitigate them.
+
+🔹I’m passionate about cloud security and securing systems in modern IT environments.
 
 🔹 I aim to grow my expertise in security operations, threat detection, and incident response.
 
-Cybersecurity is a field where learning never stops, and that’s what keeps me excited every day!.
+🔹 Cybersecurity is a field where learning never stops, and that’s what keeps me excited every day!.
 
 <h2>📚 Learning Journey</h2>
 
