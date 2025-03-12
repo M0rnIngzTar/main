@@ -1,7 +1,12 @@
 <h1>Hi, I'm Micah! </h1>
 <h2><a href="www.linkedin.com/in/micah-kate-saberola-72ba981a3">Cybersecurity Security Analyst</a></h2>
 <h2>🌱<a href= "https://m0rningztar.github.io/micahportfolio/">CV</a></h2>
-<h2>💬 Who <h2>
+<h2> 🚀 About me  <h2>
+- 🎯 Passionate about [your areas of expertise/interests].
+- 💻 Working on [current projects or learning goals].
+- 📚 Learning [technologies or skills you’re focusing on].
+- 📫 Reach me at [your email or social links].
+  
 <h2>👨‍💻 Networking Project:</h2>
 - <b>Networking Implementations</b> 
 
