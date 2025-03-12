@@ -5,8 +5,6 @@
 
 <h2>🚀 About Me</h2>
 
-🔹I enjoy learning how security vulnerabilities work and how to mitigate them.
-
 🔹I’m passionate about cloud security and securing systems in modern IT environments.
 
 🔹 I aim to grow my expertise in security operations, threat detection, and incident response.
